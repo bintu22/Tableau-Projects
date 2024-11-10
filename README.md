@@ -4,6 +4,10 @@ Sharing some projects I've created to practice the Tableau skills I've been buil
 https://public.tableau.com/app/profile/bintu.bukari/vizzes
 <br /> 
 <br /> 
+Inventory Analysis Project
+<br /> 
+Creating a dashboard to analyze inventory to improve stock management efficiency.
+<br /> 
 Airbnb Project
 <br /> 
 Created a dashboard using an airbnb dataset on kaggle.
