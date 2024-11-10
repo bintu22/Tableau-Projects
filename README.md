@@ -4,7 +4,7 @@ Sharing some projects I've created to practice the Tableau skills I've been buil
 https://public.tableau.com/app/profile/bintu.bukari/vizzes
 <br /> 
 <br /> 
-Inventory Analysis Project
+Inventory Analysis Project *In Progress*
 <br /> 
 Creating a dashboard to analyze inventory to improve stock management efficiency.
 <br />
